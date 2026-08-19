@@ -65,3 +65,9 @@ cd C:\Users\User\Desktop
 ## Basic Web app (Resourse expose)
 
 #### side menu theke--->click: Resources--->click: Private--->click: Add Resource
+
+
+
+
+
+
