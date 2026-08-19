@@ -12,6 +12,6 @@
 #### site name daw
 <img width="1295" height="503" alt="image" src="https://github.com/user-attachments/assets/164f0fe2-5bd6-4720-9e16-3e6acc0b1143" />
 
-#### click: Create site
+#### Windows select koro and click: Create site
 <img width="1240" height="620" alt="image" src="https://github.com/user-attachments/assets/d31e76e1-3350-4ee9-99da-3fd47bb739d0" />
 
