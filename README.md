@@ -1,5 +1,6 @@
 # Pangolin
 
+## Pangolin setup
 #### visit: https://app.pangolin.net/auth/signup ---> email, password diye click koro create account
 <img width="331" height="633" alt="image" src="https://github.com/user-attachments/assets/cc6adcdc-9807-4ef4-ba66-bdfcf94ce5f5" />
 
@@ -60,3 +61,5 @@ cd C:\Users\User\Desktop
 .\newt.exe status
 ```
 ---
+
+## Resourse expose
