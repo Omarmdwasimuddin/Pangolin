@@ -62,4 +62,6 @@ cd C:\Users\User\Desktop
 ```
 ---
 
-## Resourse expose
+## Basic Web app (Resourse expose)
+
+#### side menu theke--->click: Resources--->click: Private--->
