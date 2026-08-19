@@ -30,6 +30,33 @@ Invoke-WebRequest -Uri "https://github.com/fosrl/newt/releases/download/1.15.0/n
 ---
 
 #### Windows Service
+##### credentials save hoye ache 
+```
+C:\ProgramData\newt\newt-client\config.json
+```
+---
 
+#### PowerShell Administrator open koro
+#### Desktop e fire jan
+```
+cd C:\Users\User\Desktop
+```
+---
 
+#### Service install korun
+```bash
+.\newt.exe install
+```
+---
 
+#### Service start korun
+```bash
+.\newt.exe start
+```
+---
+
+#### Status check korun
+```bash
+.\newt.exe status
+```
+---
