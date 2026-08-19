@@ -5,3 +5,6 @@
 
 #### Email verify koro
 <img width="448" height="400" alt="image" src="https://github.com/user-attachments/assets/e68695a2-f425-47f3-b997-d0f3d7dc562d" />
+
+#### Organization name daw
+<img width="712" height="530" alt="image" src="https://github.com/user-attachments/assets/85c7fc48-58d2-4bee-9ef6-c3997d7d9c28" />
